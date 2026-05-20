@@ -110,7 +110,6 @@ The Gold layer includes:
 
 ### 📊 Sample Query Output
 
-(docs/sample-query.png)
 ![Query Result](https://github.com/user-attachments/assets/b4010975-37f6-4172-ab35-1e76adcf054f)
 
 ---
